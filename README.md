@@ -17,9 +17,7 @@ It simulates key user flows such as login, product selection, add to cart, and c
 
 Clone the repo and install the dependencies:
 
-```bash
 npm install
-```
 
 ### Test Scenarios Covered
 
